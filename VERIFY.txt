@@ -1,0 +1,6 @@
+entry: entry.png (1024x1024, 33141 bytes, limit 1048576)
+labels: 7 (WHISPERING COVE, PIRATES PERCH, MOUNT GIGGLE, PARROT TAVERN, MERMAID LAGOON, DEAD MAN'S DUNES, THE GIGGLING CHEST)
+run1 sha256: bc2c6215133697c759e5e2c1acf403930d328fde6be107a0da945c90d6c6552e
+run2 sha256: bc2c6215133697c759e5e2c1acf403930d328fde6be107a0da945c90d6c6552e
+determinism: IDENTICAL
+visual check: all 7 labels legible, no clip/overlap (compass E nudged right after first render, re-verified)
